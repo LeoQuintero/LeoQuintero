@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeoQuintero
-- 👀 I’m interested in Software Developer. I have knowledge in data structure with python, HTML, CSS and vanilla javascript
-- 🌱 I’m currently learning Java Development with Java
-- 💞️ I'm looking to be a full-stack on the backend with Django and Spring and the Frontend with React.
+- 👀 I have knowledge in test automation with java
+- 🌱 I’m have knowledge in other programing lenguages like python an javascript
+- 💞️ I'm interested in learning Data Science
 - 📫 How to reach me ===> https://www.linkedin.com/in/elquintero/
 
 
