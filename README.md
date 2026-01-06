@@ -14,7 +14,7 @@ Soy un apasionado de la **integridad de los datos** y la estabilidad de los sist
 ---
 
 ### 📈 Proyectos Destacados (En Desarrollo)
-* **[The Reconciler](tu-link-aqui):** Script de automatización en Python/Pandas para conciliación bancaria y detección de discrepancias transaccionales.
+* **[reconcilier-project](tu-link-aqui):** Script de automatización en Python/Pandas para conciliación bancaria y detección de discrepancias transaccionales.
 * **[Fintech Integration Lab](tu-link-aqui):** Suite de pruebas automatizadas con PyTest para validar flujos de pago e integridad de datos en entornos WooCommerce/MySQL.
 
 ---
