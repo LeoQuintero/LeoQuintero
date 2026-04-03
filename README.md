@@ -1,32 +1,35 @@
-# 👋 Hola, soy Edwin (Leo) Quintero
+# Edwin (Leo) Quintero
+### Mid Data Quality & Backend QA Engineer | Fintech & Banking
 
-### 🚀 QA Analyst | Data Quality & Tech Ops Specialist | Fintech & Banking
-Soy un apasionado de la **integridad de los datos** y la estabilidad de los sistemas críticos. Me especializo en asegurar que las integraciones (APIs, DBs, Core Bancario) funcionen sin fisuras, utilizando Python y SQL como mis herramientas principales de diagnóstico.
+Con más de 4 años de experiencia en el sector financiero, me especializo en la validación de integridad de datos, migraciones de Core Bancario (AS/400 a Cloud) y automatización de pruebas de backend. 
 
----
-
-### 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** Python (Pandas, PyTest), SQL (Oracle, MySQL, AS/400), JavaScript.
-- **Testing & Ops:** Automatización de API REST, Validación de integridad de datos, Análisis de Logs (AWS CloudWatch).
-- **Herramientas:** Jira, Postman, Git, Docker, MAMP.
-- **Dominio:** Banca, Seguros, Cálculos Financieros y Cumplimiento Normativo.
+Mi enfoque no es solo encontrar bugs, sino asegurar que las reglas de negocio financiero se cumplan a nivel transaccional y de base de datos.
 
 ---
 
-### 📈 Proyectos Destacados (En Desarrollo)
-* **[reconcilier-project](https://github.com/LeoQuintero/reconcilier-project.git):** Script de automatización en Python/Pandas para conciliación bancaria y detección de discrepancias transaccionales.
-* **[simulador_credito_qa](tu-link-aqui):** Suite de pruebas automatizadas con PyTest para validar flujos de pago e integridad de datos en entornos WooCommerce/MySQL.
+### 🛠️ Tech Stack & Herramientas
+- **Data Quality & SQL:** PostgreSQL, Oracle PL/SQL, MySQL, CTEs & Window Functions.
+- **Backend & Automation:** Python (boto3, SQLAlchemy, Faker, PyTest), FastAPI, REST APIs (Postman/Newman).
+- **Cloud & Ops:** AWS (S3, CloudWatch, DynamoDB), Git, Docker.
+- **Domain Expertise:** Reconciliación bancaria, Seguros, Core Bancario (AS/400), Cumplimiento Normativo (Sarlaft).
 
 ---
 
-### 🎓 Formación Continua
-- **Profesional en Administración de Empresas** (En curso - 2026) | Politécnico Grancolombiano.
-- **Certificación en Introducción a Ciencia de Datos** | MIT XPRO & Great Learning.
-- **Especialización en Fundamentos de Finanzas en Python** | DataCamp (In Progress).
+### 📊 Proyectos Destacados
+
+* **[LedgerGuard-TransactSure](https://github.com/LeoQuintero/LedgerGuard-TransactSure)**
+  **Automated Data Quality Controls for Fintech**
+  Plataforma de automatización construida con Python y PostgreSQL que simula una base de datos bancaria de 11K+ registros. Implementa controles de calidad de datos usando SQL avanzado (CTEs, Window Functions) para detectar discrepancias transaccionales, duplicados e integridad referencial, expuestos a través de una API REST (FastAPI).
+
+---
+
+### 🎓 Background Académico
+- **Profesional en Administración de Empresas** (2026) | Politécnico Grancolombiano. *(Enfoque en Gestión Financiera y de Riesgos)*
+- **Data Science and Machine Learning: Making Data-Driven Decisions** | MIT XPRO (2024).
 
 ---
 
 ### 📫 Contacto
 - **LinkedIn:** [linkedin.com/in/elquintero](https://linkedin.com/in/elquintero)
 - **Email:** leoquintero7@gmail.com
-- **Ubicación:** Bogotá, Colombia 🇨🇴
+- **Ubicación:** Bogotá, Colombia 🇨🇴 (Open to Global Remote & Relocation)
