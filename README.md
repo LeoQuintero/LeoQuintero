@@ -10,7 +10,7 @@ Mi enfoque no es solo encontrar bugs, sino asegurar que las reglas de negocio fi
 ### 🛠️ Tech Stack & Herramientas
 - **Data Quality & SQL:** PostgreSQL, Oracle PL/SQL, MySQL, CTEs & Window Functions.
 - **Backend & Automation:** Python (boto3, SQLAlchemy, Faker, PyTest), FastAPI, REST APIs (Postman/Newman).
-- **Cloud & Ops:** AWS (S3, CloudWatch, DynamoDB), Git, Docker.
+- **Cloud & Ops:** AWS (S3, CloudWatch, DynamoDB), Git, Linux.
 - **Domain Expertise:** Reconciliación bancaria, Seguros, Core Bancario (AS/400), Cumplimiento Normativo (Sarlaft).
 
 ---
